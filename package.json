@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-api",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "paulo.penalva@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "libphonenumber-js": "^1.10.37",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.21.0"
+  },
+  "description": "Envia mensagens para o whatsapp",
+  "engines": {
+    "node": ">=12"
+  }
+}
