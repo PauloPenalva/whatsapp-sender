@@ -1,4 +1,4 @@
-# WhatsApp Message Sender - Node.js Project
+# WhatsApp Message Sender
 
 ![WhatsApp Message Sender](https://your-image-url.com)
 
@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- [WhatsApp Message Sender - Node.js Project](#whatsapp-message-sender---nodejs-project)
+- [WhatsApp Message Sender](#whatsapp-message-sender---nodejs-project)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Installation](#installation)
@@ -28,13 +28,13 @@ This project allows you to send WhatsApp messages programmatically using the Wha
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/whatsapp-message-sender.git
+git clone https://github.com/PauloPenalva/whatsapp.git
 ```
 
 2. Install the required dependencies:
 
 ```bash
-cd whatsapp-message-sender
+cd whatsapp
 npm install
 ```
 
@@ -98,7 +98,3 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README to your liking. Good luck with your project! If you have any further questions or need additional assistance, feel free to ask.
